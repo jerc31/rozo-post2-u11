@@ -13,7 +13,7 @@
 	<artifactId>catalogo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>catalogo</name>
-	<description>API REST de catalogo de productos</description>
+	<description>API REST del catalogo de productos</description>
 	<url/>
 	<licenses>
 		<license/>
